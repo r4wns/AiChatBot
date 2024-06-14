@@ -290,8 +290,8 @@ to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    AI ChatBot developed on Python
+    Copyright (C) 2024  Nazar Serhiyovich Markov
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -324,13 +324,13 @@ mouse-clicks or menu items--whatever suits your program.
 
 You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a "copyright disclaimer" for the program, if
-necessary.  Here is a sample; alter the names:
+necessary.
 
-  Yoyodyne, Inc., hereby disclaims all copyright interest in the program
-  `Gnomovision' (which makes passes at compilers) written by James Hacker.
+  Kryomint, Inc., hereby disclaims all copyright interest in the program
+  `Lumivara' (which makes passes at compilers) written by Nazar Markov.
 
-  <signature of Ty Coon>, 1 April 1989
-  Ty Coon, President of Vice
+  Nazar Markov, 14 June 2024
+  Nazar Markov, President of Kryomint
 
 This General Public License does not permit incorporating your program into
 proprietary programs.  If your program is a subroutine library, you may
